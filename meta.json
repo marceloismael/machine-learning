@@ -1,0 +1,21 @@
+{
+  "target_names": {
+    "1": "building_windows_float_processed",
+    "2": "building_windows_non_float_processed",
+    "3": "vehicle_windows_float_processed",
+    "5": "containers",
+    "6": "tableware",
+    "7": "headlamps"
+  },
+  "feature_names": [
+    "RI",
+    "Na",
+    "Mg",
+    "Al",
+    "Si",
+    "K",
+    "Ca",
+    "Ba",
+    "Fe"
+  ]
+}
